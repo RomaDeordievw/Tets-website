@@ -81,6 +81,8 @@ footer {
     left: 950px;
     background-color: #77CBBC;
     padding: 15px;
+    right: 0;
+    justify-self: center;
 }
 
 footer a {
