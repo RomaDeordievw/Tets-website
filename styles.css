@@ -54,6 +54,7 @@ p {
     flex-wrap: wrap;
     width: 1100px;
     margin: 0px;
+    justify-content: center;
 }
 
 article {
